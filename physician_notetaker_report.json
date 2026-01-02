@@ -1,0 +1,39 @@
+{
+    "Task_1_Medical_Summarization": {
+        "Patient_Name": "Janet Jones",
+        "Symptoms": [
+            "Neck pain",
+            "Back pain",
+            "Head impact"
+        ],
+        "Diagnosis": "Whiplash injury",
+        "Treatment": [
+            "10 physiotherapy sessions",
+            "Painkillers"
+        ],
+        "Current_Status": "Occasional backache",
+        "Prognosis": "Full recovery expected within six months"
+    },
+    "Task_2_Sentiment_and_Intent": {
+        "Patient_Utterance": "That\u2019s a relief! So, I don\u2019t need to worry about this affecting me in the future?",
+        "Sentiment": "Reassured",
+        "Intent": "Seeking reassurance"
+    },
+    "Task_3_SOAP_Note": {
+        "Subjective": {
+            "Chief_Complaint": "Neck and back pain following MVA (Motor Vehicle Accident).",
+            "History": "Accident occurred Sept 1st. Initial diagnosis of whiplash at Moss Bank A&E."
+        },
+        "Objective": {
+            "Physical_Exam": "Full range of movement in neck and back. No tenderness or signs of damage."
+        },
+        "Assessment": {
+            "Diagnosis": "Whiplash injury",
+            "Status": "Improving; occasional backaches."
+        },
+        "Plan": {
+            "Treatment": "Continue routine activities. No further physiotherapy required.",
+            "Follow_up": "Return if symptoms worsen. Full recovery expected in 6 months."
+        }
+    }
+}
